@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poyraz (Borealis) Hancılar</h1>
+<h1 align="center">Hi 👋, I'm Poyraz Borealis Hancılar</h1>
 <h3 align="center">16yr old developer, Founder/CEO of PocketDio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poyraz&label=Profile%20views&color=0e75b6&style=flat" alt="poyraz" /> </p>
