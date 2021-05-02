@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **poyrazhancilar@pocketdio.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hancilarpoyraz/](https://www.linkedin.com/in/hancilarpoyraz/)
+- 📄 Know about my experiences [https://linkedin.com/in/hancilarpoyraz/](https://www.linkedin.com/in/hancilarpoyraz/)
